@@ -1,0 +1,14 @@
+{
+  "name": "nodestudy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "children.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pretty-hrtime": "^1.0.0"
+  }
+}
